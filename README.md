@@ -27,7 +27,7 @@ The project demonstrates full-stack development, prompt engineering, secure API 
 
 ### **Frontend**
 
-* React (Vite)
+* React
 * Axios
 * JavaScript (ES6)
 * Plain CSS
